@@ -1,14 +1,14 @@
-# 📷 Yüz Tanıma Sistemi
+# Yüz Tanıma Sistemi
 
 Modern ve kullanıcı dostu bir yüz tanıma uygulaması. Kamera ile gerçek zamanlı yüz tanıma yapın, yeni kişiler ekleyin ve yoklama sistemini otomatik hale getirin.
 
-## ✨ Neler Yapabilirsiniz?
+## Neler Yapabilirsiniz?
 
 - **Kolayca Kişi Ekleyin**: Kameranın karşısına geçin, "KAYIT ET" butonuna tıklayın - hepsi bu kadar! Sistem kişiyi anında tanımaya başlar.
 - **Hızlı Silme İşlemi**: Artık tanınmasını istemediğiniz birini tek tıkla sistemden çıkarabilirsiniz.
 - **Otomatik Yoklama Takibi**: Her tanınan kişi otomatik olarak tarih ve saat bilgisiyle `Attendance.csv` dosyasına kaydedilir. Manuel yoklama almaya veda edin!
 
-## 🛠️ Başlangıç Rehberi
+## Başlangıç Rehberi
 
 ### Gereksinimler
 - Python 3.7 veya üzeri
@@ -23,9 +23,9 @@ cd PROJE_ADIN
 pip install -r requirements.txt
 **3. Uygulamayı Başlatın**
 python main.py
-Kamera açıldığında sistemi kullanmaya hazırsınız! 🎉
+Kamera açıldığında sistemi kullanmaya hazırsınız!
 
-## 📖 Nasıl Kullanılır?
+## Nasıl Kullanılır?
 
 1. **Yeni Kişi Eklemek İçin**: 
    - Kameranın önüne geçin
@@ -40,17 +40,17 @@ Kamera açıldığında sistemi kullanmaya hazırsınız! 🎉
    - `Attendance.csv` dosyasını açın
    - Tüm giriş çıkış kayıtlarını tarih ve saatle birlikte görebilirsiniz
 
-## 📝 Notlar
+## Notlar
 
 - İlk kullanımda kamera izni vermeniz gerekebilir
 - Kayıt sırasında yüzünüzün açık ve net görünmesine dikkat edin
 - Yoklama dosyası her gün otomatik olarak güncellenir
 
-## 🤝 Katkıda Bulunun
+## Katkıda Bulunun
 
 Projeyi geliştirmek için fikirlerinizi paylaşabilir veya hata bildirimi yapabilirsiniz. Her türlü katkı değerlidir!
 
-## 📧 İletişim
+## İletişim
 **E-Posta:** non.mrbora@gmail.com  
 **GitHub:** [@Bor-Code](https://github.com/Bor-Code)
 ---
@@ -58,17 +58,17 @@ Projeyi geliştirmek için fikirlerinizi paylaşabilir veya hata bildirimi yapab
 
 ***************************************************************************************************************************
 
-# 📷 Face Recognition System
+# Face Recognition System
 
 A modern and user-friendly face recognition application. Perform real-time face recognition with the camera, add new people, and automate the attendance system.
 
-## ✨ What Can You Do?
+## What Can You Do?
 
 - **Easily Add People**: Stand in front of the camera, click the “REGISTER” button - that's it! The system starts recognizing the person immediately.
 - **Quick Deletion Process**: You can now remove someone you no longer want to recognize from the system with a single click.
 - **Automatic Attendance Tracking**: Each recognized person is automatically recorded in the `Attendance.csv` file with date and time information. Say goodbye to manual attendance taking!
 
-## 🛠️ Getting Started Guide
+## Getting Started Guide
 
 ### Requirements
 - Python 3.7 or higher
@@ -83,9 +83,9 @@ cd PROJECT_NAME
 pip install -r requirements.txt
 **3. Launch the Application**
 python main.py
-Once the camera is open, you're ready to use the system! 🎉
+Once the camera is open, you're ready to use the system!
 
-## 📖 How to Use It?
+## How to Use It?
 
 1. **To Add a New Person:**
    - Stand in front of the camera
@@ -100,13 +100,13 @@ Once the camera is open, you're ready to use the system! 🎉
    - Open the `Attendance.csv` file
    - You can see all entry and exit records along with the date and time
 
-## 📝 Notes
+## Notes
 
 - You may need to grant camera permission on first use
 - Make sure your face is clear and visible during registration
 - The attendance file is automatically updated every day
 
-## 🤝 Contribute
+## Contribute
 
 You can share your ideas to improve the project or report bugs. All contributions are valuable!
 
